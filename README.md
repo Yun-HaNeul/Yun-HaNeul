@@ -31,4 +31,8 @@ Here are some ideas to get you started:
 </p>
 
 <h3 align="center">💻 Tools 🖱</h3>
-<img src="https://img.shields.io/badge/IntelliJidea-0071C5?style=flat-square&logo=intellijidea&logoColor=white"/>
+<img src="https://img.shields.io/badge/IntelliJ IDEA-0071C5?style=flat-square&logo=intellijidea&logoColor=white"/> &nbsp 
+<img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=eclipseide&logoColor=white"/> &nbsp 
+<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/> &nbsp 
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/> &nbsp
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> &nbsp 
