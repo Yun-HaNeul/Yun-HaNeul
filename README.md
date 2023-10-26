@@ -40,4 +40,4 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> &nbsp 
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yun-HaNeul)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yun-HaNeul&langs_count=8)](https://github.com/Yun-HaNeul/github-readme-stats)
