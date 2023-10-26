@@ -31,4 +31,4 @@ Here are some ideas to get you started:
 </p>
 
 <h3 align="center">💻 Tools 🖱</h3>
-<img src="https://img.shields.io/badge/IntelliJ IEDA-#0071C5?style=flat-square&logo=intellijidea&logoColor=white"/>
+<img src="https://img.shields.io/badge/IntelliJidea-0071C5?style=flat-square&logo=intellijidea&logoColor=white"/>
